@@ -60,7 +60,7 @@ const HeroSection = () => {
 
         <div className="mb-12 animate-slide-in-left">
           <p className="text-xl md:text-2xl font-rajdhani text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Software Engineer • Game Developer • Unity Expert • VR/AR Architect • WebGL Specialist
+            Software Engineering • Game Developement • Unity Experts • VR/AR Architect • WebGL Specialists
           </p>
         </div>
 

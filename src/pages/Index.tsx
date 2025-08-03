@@ -204,28 +204,28 @@ const Index = () => {
             <Card className="hud-border bg-gradient-to-r from-card/90 to-card/70 backdrop-blur-sm animate-scale-up">
               <CardContent className="p-12">
                <h3 className="text-4xl font-orbitron font-bold mb-8 text-center text-white">
-  🚀 Why Work With Me?
+  🚀 Why Work With Us?
 </h3>
                 <div className="grid md:grid-cols-3 gap-8">
                   <div className="text-center group">
                     <div className="text-5xl mb-4 group-hover:scale-125 transition-transform duration-300">⚡</div>
                     <h4 className="text-xl font-orbitron font-bold mb-3  text-neon-blue">Game-First UX</h4>
                     <p className="text-lg leading-relaxed">
-                      I merge game mechanics with functional UX to create memorable user experiences.
+                      We merge game mechanics with functional UX to create memorable user experiences.
                     </p>
                   </div>
                   <div className="text-center group">
                     <div className="text-5xl mb-4 group-hover:scale-125 transition-transform duration-300">🔧</div>
                     <h4 className="text-xl font-orbitron font-bold mb-3 neon-text  text-neon-green">Clean & Scalable</h4>
                     <p className="text-lg leading-relaxed">
-                      I'm fast, communicative, and committed to clean, modular, and scalable code.
+                      We are fast, communicative, and committed to clean, modular, and scalable code.
                     </p>
                   </div>
                   <div className="text-center group">
                     <div className="text-5xl mb-4 group-hover:scale-125 transition-transform duration-300">🚀</div>
                     <h4 className="text-xl font-orbitron font-bold mb-3 text-neon-orange">Full-Stack Expertise</h4>
                     <p className="text-lg leading-relaxed">
-                      I can handle both frontend and backend seamlessly, including deployment and live support.
+                      We can handle both frontend and backend seamlessly, including deployment and live support.
                     </p>
                   </div>
                 </div>
@@ -240,7 +240,7 @@ const Index = () => {
         <div className="max-w-6xl mx-auto">
           <div className={`transition-all duration-1000 ${isVisible ? 'animate-slide-in-left' : 'opacity-0'}`}>
             <h2 className="text-4xl md:text-6xl font-orbitron font-bold mb-12 text-center neon-text text-neon-blue">
-              About Me
+              About Us
             </h2>
           </div>
           
@@ -263,20 +263,20 @@ const Index = () => {
                   
                   <div className="mt-8">
                     <h4 className="text-xl font-orbitron font-bold mb-4 text-neon-purple">
-                      🚀 Why Work With Me?
+                      🚀 Why Work With Us?
                     </h4>
                     <ul className="space-y-3 text-lg">
                       <li className="flex items-start">
                         <span className="text-neon-green mr-2">▶</span>
-                        I merge game mechanics with functional UX to create memorable user experiences.
+                        We merge game mechanics with functional UX to create memorable user experiences.
                       </li>
                       <li className="flex items-start">
                         <span className="text-neon-green mr-2">▶</span>
-                        I'm fast, communicative, and committed to clean, modular, and scalable code.
+                        We are fast, communicative, and committed to clean, modular, and scalable code.
                       </li>
                       <li className="flex items-start">
                         <span className="text-neon-green mr-2">▶</span>
-                        I can handle both frontend and backend seamlessly, including deployment and live support.
+                        We can handle both frontend and backend seamlessly, including deployment and live support.
                       </li>
                     </ul>
                   </div>
@@ -508,7 +508,7 @@ const Index = () => {
       <footer className="py-8 px-4 border-t border-neon-blue/30 relative z-10">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-muted-foreground">
-            © 2024 WorldWeaver. Building the future of interactive entertainment.
+            © 2025 WorldWeaver. Building the future of interactive entertainment.
           </p>
         </div>
       </footer>
